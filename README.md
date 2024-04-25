@@ -1,1 +1,1 @@
-# food-ordering-website
+Online Food Ordering Website This is a simple yet elegant online food ordering website created using HTML and CSS. The website provides users with a seamless experience to browse through a variety of food items, add them to their cart, and place orders online. It features a responsive design, making it accessible across different devices.
